@@ -1,0 +1,1 @@
+ streamlit run "C:\Users\ASUSD\Desktop\multiple-disease-prediction/login.py"
